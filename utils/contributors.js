@@ -8,8 +8,8 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        handle_name: 'eshaanagg',
-        name: "Eshaan Aggarwal",
+        handle_name: 'nandinisharma22',
+        name: "Nandini Sharma",
         image: "/images/eshaanagg.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
@@ -31,7 +31,7 @@ const CONTRIBUTERS = [
                     <lord-icon src="https://cdn.lordicon.com/jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#e88c30" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
-        github: "https://github.com/eshaanagg",
+        github: "https://github.com/nandinisharma22",
     }
 ];
 
